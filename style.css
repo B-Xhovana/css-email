@@ -1,0 +1,15 @@
+h1 {
+    color: red; font-family: sans-serif; font-size: 220%;
+}
+h2 {
+    font-size: 140%;
+}
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+span {
+    text-decoration: underline;
+}
+h3 {
+    font-family: sans-serif; font-size: 110%;
+}
